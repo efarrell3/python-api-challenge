@@ -7,4 +7,7 @@ General Observations:
     
 The next plots created are comparing the same factors latitude vs. max temp, humidity, clodiness, and wind speed; but we split the northern and southern hemispheres (i.e. the positive and negative values from the first four plots respectively).  I will analyze linear regression lines for each of the factors and compare them between hemispheres:
   - For the temperature plots:
-    - The northern hemisphere linear regression line fits the data better then the southern hemisphere line, based on their respective r-squared 
+    - The northern hemisphere linear regression line fits the data better then the southern hemisphere line, based on their   respective r-squared values.  Based on these models, I would confirm that northern hemisphere cities are warmer closer to the equator and colder farther from it in a more linear trend than southern hemisphere cities. 
+    - The next 6 r-squared values reveal that there is no trend between cloudiness, humidity, and wind speed with regard to latitude.  Even when the comparison cities are divided by hemisphere. 
+   
+
