@@ -7,4 +7,4 @@ General Observations:
     
 The next plots created are comparing the same factors latitude vs. max temp, humidity, clodiness, and wind speed; but we split the northern and southern hemispheres (i.e. the positive and negative values from the first four plots respectively).  I will analyze linear regression lines for each of the factors and compare them between hemispheres:
   - For the temperature plots:
-    - The 
+    - The northern hemisphere linear regression line fits the data better then the southern hemisphere line, based on their respective r-squared 
